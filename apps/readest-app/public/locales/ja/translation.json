@@ -2784,5 +2784,15 @@
   "Its reading time is removed from all your devices. This can’t be undone.": "この本の読書時間がすべてのデバイスから削除されます。この操作は元に戻せません。",
   "Its reading time is removed from this device. This can’t be undone.": "この本の読書時間がこのデバイスから削除されます。この操作は元に戻せません。",
   "Statistics by Book": "本ごとの統計",
-  "Each book’s reading time, most recently read first": "本ごとの読書時間（最近読んだ順）"
+  "Each book’s reading time, most recently read first": "本ごとの読書時間（最近読んだ順）",
+  "Failed to merge reading statistics": "読書統計を統合できませんでした",
+  "Merge “{{source}}” into “{{target}}”?": "「{{source}}」を「{{target}}」に統合しますか？",
+  "Its reading time moves to the other book on all your devices. This can’t be undone.": "この本の読書時間は、すべてのデバイスでもう一方の本に移されます。この操作は元に戻せません。",
+  "Its reading time moves to the other book on this device. This can’t be undone.": "この本の読書時間は、このデバイスでもう一方の本に移されます。この操作は元に戻せません。",
+  "Merge": "統合",
+  "Merge “{{title}}” into:": "「{{title}}」の統合先:",
+  "Merge Statistics": "統計を統合",
+  "Merge statistics of {{title}}": "{{title}}の統計を統合",
+  "No other books have reading statistics": "読書統計のある本がほかにありません",
+  "Merge another entry into this book:": "この本に統合する項目:"
 }

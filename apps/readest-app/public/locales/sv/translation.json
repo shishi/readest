@@ -2857,5 +2857,15 @@
   "Its reading time is removed from all your devices. This can’t be undone.": "Lästiden tas bort från alla dina enheter. Det går inte att ångra.",
   "Its reading time is removed from this device. This can’t be undone.": "Lästiden tas bort från den här enheten. Det går inte att ångra.",
   "Statistics by Book": "Statistik per bok",
-  "Each book’s reading time, most recently read first": "Lästid för varje bok, senast lästa först"
+  "Each book’s reading time, most recently read first": "Lästid för varje bok, senast lästa först",
+  "Failed to merge reading statistics": "Det gick inte att slå ihop lässtatistiken",
+  "Merge “{{source}}” into “{{target}}”?": "Slå ihop ”{{source}}” med ”{{target}}”?",
+  "Its reading time moves to the other book on all your devices. This can’t be undone.": "Lästiden flyttas till den andra boken på alla dina enheter. Det går inte att ångra.",
+  "Its reading time moves to the other book on this device. This can’t be undone.": "Lästiden flyttas till den andra boken på den här enheten. Det går inte att ångra.",
+  "Merge": "Slå ihop",
+  "Merge “{{title}}” into:": "Slå ihop ”{{title}}” med:",
+  "Merge Statistics": "Slå ihop statistik",
+  "Merge statistics of {{title}}": "Slå ihop statistik för {{title}}",
+  "No other books have reading statistics": "Inga andra böcker har lässtatistik",
+  "Merge another entry into this book:": "Slå ihop en annan post med den här boken:"
 }

@@ -2930,5 +2930,15 @@
   "Its reading time is removed from all your devices. This can’t be undone.": "Son temps de lecture sera supprimé de tous vos appareils. Cette action est irréversible.",
   "Its reading time is removed from this device. This can’t be undone.": "Son temps de lecture sera supprimé de cet appareil. Cette action est irréversible.",
   "Statistics by Book": "Statistiques par livre",
-  "Each book’s reading time, most recently read first": "Temps de lecture de chaque livre, du plus récent au plus ancien"
+  "Each book’s reading time, most recently read first": "Temps de lecture de chaque livre, du plus récent au plus ancien",
+  "Failed to merge reading statistics": "Impossible de fusionner les statistiques de lecture",
+  "Merge “{{source}}” into “{{target}}”?": "Fusionner « {{source}} » dans « {{target}} » ?",
+  "Its reading time moves to the other book on all your devices. This can’t be undone.": "Son temps de lecture sera transféré à l’autre livre sur tous vos appareils. Cette action est irréversible.",
+  "Its reading time moves to the other book on this device. This can’t be undone.": "Son temps de lecture sera transféré à l’autre livre sur cet appareil. Cette action est irréversible.",
+  "Merge": "Fusionner",
+  "Merge “{{title}}” into:": "Fusionner « {{title}} » dans :",
+  "Merge Statistics": "Fusionner les statistiques",
+  "Merge statistics of {{title}}": "Fusionner les statistiques de {{title}}",
+  "No other books have reading statistics": "Aucun autre livre n’a de statistiques de lecture",
+  "Merge another entry into this book:": "Fusionner une autre entrée dans ce livre :"
 }

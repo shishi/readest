@@ -2857,5 +2857,15 @@
   "Its reading time is removed from all your devices. This can’t be undone.": "Az olvasási idő minden eszközödről törlődik. Ez nem vonható vissza.",
   "Its reading time is removed from this device. This can’t be undone.": "Az olvasási idő erről az eszközről törlődik. Ez nem vonható vissza.",
   "Statistics by Book": "Statisztika könyvenként",
-  "Each book’s reading time, most recently read first": "Az egyes könyvek olvasási ideje, a legutóbb olvasottal kezdve"
+  "Each book’s reading time, most recently read first": "Az egyes könyvek olvasási ideje, a legutóbb olvasottal kezdve",
+  "Failed to merge reading statistics": "Nem sikerült egyesíteni az olvasási statisztikát",
+  "Merge “{{source}}” into “{{target}}”?": "Egyesíted a(z) „{{source}}” bejegyzést ezzel: „{{target}}”?",
+  "Its reading time moves to the other book on all your devices. This can’t be undone.": "Az olvasási idő minden eszközödön átkerül a másik könyvhöz. Ez nem vonható vissza.",
+  "Its reading time moves to the other book on this device. This can’t be undone.": "Az olvasási idő ezen az eszközön átkerül a másik könyvhöz. Ez nem vonható vissza.",
+  "Merge": "Egyesítés",
+  "Merge “{{title}}” into:": "„{{title}}” egyesítése ezzel:",
+  "Merge Statistics": "Statisztika egyesítése",
+  "Merge statistics of {{title}}": "Statisztika egyesítése: {{title}}",
+  "No other books have reading statistics": "Más könyvnek nincs olvasási statisztikája",
+  "Merge another entry into this book:": "Másik bejegyzés egyesítése ezzel a könyvvel:"
 }

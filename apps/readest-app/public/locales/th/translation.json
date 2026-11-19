@@ -2784,5 +2784,15 @@
   "Its reading time is removed from all your devices. This can’t be undone.": "เวลาอ่านของหนังสือเล่มนี้จะถูกลบออกจากอุปกรณ์ทั้งหมดของคุณ การดำเนินการนี้ไม่สามารถย้อนกลับได้",
   "Its reading time is removed from this device. This can’t be undone.": "เวลาอ่านของหนังสือเล่มนี้จะถูกลบออกจากอุปกรณ์นี้ การดำเนินการนี้ไม่สามารถย้อนกลับได้",
   "Statistics by Book": "สถิติตามหนังสือ",
-  "Each book’s reading time, most recently read first": "เวลาอ่านของหนังสือแต่ละเล่ม เรียงจากที่อ่านล่าสุด"
+  "Each book’s reading time, most recently read first": "เวลาอ่านของหนังสือแต่ละเล่ม เรียงจากที่อ่านล่าสุด",
+  "Failed to merge reading statistics": "รวมสถิติการอ่านไม่สำเร็จ",
+  "Merge “{{source}}” into “{{target}}”?": "รวม “{{source}}” เข้ากับ “{{target}}” หรือไม่",
+  "Its reading time moves to the other book on all your devices. This can’t be undone.": "เวลาอ่านของหนังสือเล่มนี้จะย้ายไปยังหนังสืออีกเล่มในอุปกรณ์ทั้งหมดของคุณ การดำเนินการนี้ไม่สามารถย้อนกลับได้",
+  "Its reading time moves to the other book on this device. This can’t be undone.": "เวลาอ่านของหนังสือเล่มนี้จะย้ายไปยังหนังสืออีกเล่มในอุปกรณ์นี้ การดำเนินการนี้ไม่สามารถย้อนกลับได้",
+  "Merge": "รวม",
+  "Merge “{{title}}” into:": "รวม “{{title}}” เข้ากับ:",
+  "Merge Statistics": "รวมสถิติ",
+  "Merge statistics of {{title}}": "รวมสถิติของ {{title}}",
+  "No other books have reading statistics": "ไม่มีหนังสือเล่มอื่นที่มีสถิติการอ่าน",
+  "Merge another entry into this book:": "รวมรายการอื่นเข้ากับหนังสือเล่มนี้:"
 }

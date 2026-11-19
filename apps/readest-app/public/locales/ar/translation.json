@@ -3149,5 +3149,15 @@
   "Its reading time is removed from all your devices. This can’t be undone.": "ستتم إزالة وقت قراءته من جميع أجهزتك. لا يمكن التراجع عن هذا الإجراء.",
   "Its reading time is removed from this device. This can’t be undone.": "ستتم إزالة وقت قراءته من هذا الجهاز. لا يمكن التراجع عن هذا الإجراء.",
   "Statistics by Book": "الإحصاءات حسب الكتاب",
-  "Each book’s reading time, most recently read first": "وقت قراءة كل كتاب، الأحدث قراءةً أولًا"
+  "Each book’s reading time, most recently read first": "وقت قراءة كل كتاب، الأحدث قراءةً أولًا",
+  "Failed to merge reading statistics": "تعذّر دمج إحصاءات القراءة",
+  "Merge “{{source}}” into “{{target}}”?": "هل تريد دمج «{{source}}» في «{{target}}»؟",
+  "Its reading time moves to the other book on all your devices. This can’t be undone.": "سيُنقل وقت قراءته إلى الكتاب الآخر على جميع أجهزتك. لا يمكن التراجع عن هذا الإجراء.",
+  "Its reading time moves to the other book on this device. This can’t be undone.": "سيُنقل وقت قراءته إلى الكتاب الآخر على هذا الجهاز. لا يمكن التراجع عن هذا الإجراء.",
+  "Merge": "دمج",
+  "Merge “{{title}}” into:": "دمج «{{title}}» في:",
+  "Merge Statistics": "دمج الإحصاءات",
+  "Merge statistics of {{title}}": "دمج إحصاءات {{title}}",
+  "No other books have reading statistics": "لا توجد كتب أخرى لها إحصاءات قراءة",
+  "Merge another entry into this book:": "دمج إدخال آخر في هذا الكتاب:"
 }

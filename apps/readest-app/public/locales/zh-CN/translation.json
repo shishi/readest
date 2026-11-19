@@ -2784,5 +2784,15 @@
   "Its reading time is removed from all your devices. This can’t be undone.": "这本书的阅读时长将从你的所有设备中移除。此操作无法撤销。",
   "Its reading time is removed from this device. This can’t be undone.": "这本书的阅读时长将从此设备中移除。此操作无法撤销。",
   "Statistics by Book": "按书籍统计",
-  "Each book’s reading time, most recently read first": "每本书的阅读时长，最近阅读的在前"
+  "Each book’s reading time, most recently read first": "每本书的阅读时长，最近阅读的在前",
+  "Failed to merge reading statistics": "无法合并阅读统计",
+  "Merge “{{source}}” into “{{target}}”?": "要将《{{source}}》合并到《{{target}}》吗？",
+  "Its reading time moves to the other book on all your devices. This can’t be undone.": "它的阅读时长将在你的所有设备上转到另一本书。此操作无法撤销。",
+  "Its reading time moves to the other book on this device. This can’t be undone.": "它的阅读时长将在此设备上转到另一本书。此操作无法撤销。",
+  "Merge": "合并",
+  "Merge “{{title}}” into:": "将《{{title}}》合并到：",
+  "Merge Statistics": "合并统计",
+  "Merge statistics of {{title}}": "合并《{{title}}》的统计",
+  "No other books have reading statistics": "没有其他书籍有阅读统计",
+  "Merge another entry into this book:": "将其他条目合并到这本书："
 }

@@ -2857,5 +2857,15 @@
   "Its reading time is removed from all your devices. This can’t be undone.": "Ο χρόνος ανάγνωσής του θα αφαιρεθεί από όλες τις συσκευές σας. Η ενέργεια δεν αναιρείται.",
   "Its reading time is removed from this device. This can’t be undone.": "Ο χρόνος ανάγνωσής του θα αφαιρεθεί από αυτήν τη συσκευή. Η ενέργεια δεν αναιρείται.",
   "Statistics by Book": "Στατιστικά ανά βιβλίο",
-  "Each book’s reading time, most recently read first": "Ο χρόνος ανάγνωσης κάθε βιβλίου, με το πιο πρόσφατο πρώτο"
+  "Each book’s reading time, most recently read first": "Ο χρόνος ανάγνωσης κάθε βιβλίου, με το πιο πρόσφατο πρώτο",
+  "Failed to merge reading statistics": "Αποτυχία συγχώνευσης των στατιστικών ανάγνωσης",
+  "Merge “{{source}}” into “{{target}}”?": "Συγχώνευση του «{{source}}» στο «{{target}}»;",
+  "Its reading time moves to the other book on all your devices. This can’t be undone.": "Ο χρόνος ανάγνωσής του θα μεταφερθεί στο άλλο βιβλίο σε όλες τις συσκευές σας. Η ενέργεια δεν αναιρείται.",
+  "Its reading time moves to the other book on this device. This can’t be undone.": "Ο χρόνος ανάγνωσής του θα μεταφερθεί στο άλλο βιβλίο σε αυτήν τη συσκευή. Η ενέργεια δεν αναιρείται.",
+  "Merge": "Συγχώνευση",
+  "Merge “{{title}}” into:": "Συγχώνευση του «{{title}}» σε:",
+  "Merge Statistics": "Συγχώνευση στατιστικών",
+  "Merge statistics of {{title}}": "Συγχώνευση στατιστικών του {{title}}",
+  "No other books have reading statistics": "Κανένα άλλο βιβλίο δεν έχει στατιστικά ανάγνωσης",
+  "Merge another entry into this book:": "Συγχώνευση άλλης καταχώρισης σε αυτό το βιβλίο:"
 }

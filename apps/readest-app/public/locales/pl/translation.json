@@ -3003,5 +3003,15 @@
   "Its reading time is removed from all your devices. This can’t be undone.": "Czas czytania tej książki zostanie usunięty ze wszystkich Twoich urządzeń. Tej operacji nie można cofnąć.",
   "Its reading time is removed from this device. This can’t be undone.": "Czas czytania tej książki zostanie usunięty z tego urządzenia. Tej operacji nie można cofnąć.",
   "Statistics by Book": "Statystyki według książek",
-  "Each book’s reading time, most recently read first": "Czas czytania każdej książki, od ostatnio czytanej"
+  "Each book’s reading time, most recently read first": "Czas czytania każdej książki, od ostatnio czytanej",
+  "Failed to merge reading statistics": "Nie udało się scalić statystyk czytania",
+  "Merge “{{source}}” into “{{target}}”?": "Scalić „{{source}}” z „{{target}}”?",
+  "Its reading time moves to the other book on all your devices. This can’t be undone.": "Czas czytania tej książki zostanie przeniesiony do drugiej książki na wszystkich Twoich urządzeniach. Tej operacji nie można cofnąć.",
+  "Its reading time moves to the other book on this device. This can’t be undone.": "Czas czytania tej książki zostanie przeniesiony do drugiej książki na tym urządzeniu. Tej operacji nie można cofnąć.",
+  "Merge": "Scal",
+  "Merge “{{title}}” into:": "Scal „{{title}}” z:",
+  "Merge Statistics": "Scal statystyki",
+  "Merge statistics of {{title}}": "Scal statystyki: {{title}}",
+  "No other books have reading statistics": "Żadna inna książka nie ma statystyk czytania",
+  "Merge another entry into this book:": "Scal inny wpis z tą książką:"
 }

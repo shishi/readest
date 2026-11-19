@@ -2784,5 +2784,15 @@
   "Its reading time is removed from all your devices. This can’t be undone.": "Thời gian đọc của sách này sẽ bị xóa khỏi tất cả thiết bị của bạn. Không thể hoàn tác thao tác này.",
   "Its reading time is removed from this device. This can’t be undone.": "Thời gian đọc của sách này sẽ bị xóa khỏi thiết bị này. Không thể hoàn tác thao tác này.",
   "Statistics by Book": "Thống kê theo sách",
-  "Each book’s reading time, most recently read first": "Thời gian đọc của từng cuốn sách, sách đọc gần đây nhất trước"
+  "Each book’s reading time, most recently read first": "Thời gian đọc của từng cuốn sách, sách đọc gần đây nhất trước",
+  "Failed to merge reading statistics": "Không thể gộp thống kê đọc",
+  "Merge “{{source}}” into “{{target}}”?": "Gộp “{{source}}” vào “{{target}}”?",
+  "Its reading time moves to the other book on all your devices. This can’t be undone.": "Thời gian đọc của sách này sẽ được chuyển sang sách kia trên tất cả thiết bị của bạn. Không thể hoàn tác thao tác này.",
+  "Its reading time moves to the other book on this device. This can’t be undone.": "Thời gian đọc của sách này sẽ được chuyển sang sách kia trên thiết bị này. Không thể hoàn tác thao tác này.",
+  "Merge": "Gộp",
+  "Merge “{{title}}” into:": "Gộp “{{title}}” vào:",
+  "Merge Statistics": "Gộp thống kê",
+  "Merge statistics of {{title}}": "Gộp thống kê của {{title}}",
+  "No other books have reading statistics": "Không có sách nào khác có thống kê đọc",
+  "Merge another entry into this book:": "Gộp một mục khác vào sách này:"
 }

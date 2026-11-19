@@ -3003,5 +3003,15 @@
   "Its reading time is removed from all your devices. This can’t be undone.": "Час читання цієї книги буде видалено з усіх ваших пристроїв. Цю дію неможливо скасувати.",
   "Its reading time is removed from this device. This can’t be undone.": "Час читання цієї книги буде видалено з цього пристрою. Цю дію неможливо скасувати.",
   "Statistics by Book": "Статистика за книгами",
-  "Each book’s reading time, most recently read first": "Час читання кожної книги, спершу нещодавні"
+  "Each book’s reading time, most recently read first": "Час читання кожної книги, спершу нещодавні",
+  "Failed to merge reading statistics": "Не вдалося об’єднати статистику читання",
+  "Merge “{{source}}” into “{{target}}”?": "Об’єднати «{{source}}» у «{{target}}»?",
+  "Its reading time moves to the other book on all your devices. This can’t be undone.": "Час читання цієї книги буде перенесено до іншої книги на всіх ваших пристроях. Цю дію неможливо скасувати.",
+  "Its reading time moves to the other book on this device. This can’t be undone.": "Час читання цієї книги буде перенесено до іншої книги на цьому пристрої. Цю дію неможливо скасувати.",
+  "Merge": "Об’єднати",
+  "Merge “{{title}}” into:": "Об’єднати «{{title}}» у:",
+  "Merge Statistics": "Об’єднати статистику",
+  "Merge statistics of {{title}}": "Об’єднати статистику: {{title}}",
+  "No other books have reading statistics": "Інші книги не мають статистики читання",
+  "Merge another entry into this book:": "Об’єднати інший запис із цією книгою:"
 }

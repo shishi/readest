@@ -3003,5 +3003,15 @@
   "Its reading time is removed from all your devices. This can’t be undone.": "Čas branja bo odstranjen z vseh vaših naprav. Tega ni mogoče razveljaviti.",
   "Its reading time is removed from this device. This can’t be undone.": "Čas branja bo odstranjen s te naprave. Tega ni mogoče razveljaviti.",
   "Statistics by Book": "Statistika po knjigah",
-  "Each book’s reading time, most recently read first": "Čas branja vsake knjige, najprej nazadnje brane"
+  "Each book’s reading time, most recently read first": "Čas branja vsake knjige, najprej nazadnje brane",
+  "Failed to merge reading statistics": "Statistike branja ni bilo mogoče združiti",
+  "Merge “{{source}}” into “{{target}}”?": "Želite združiti »{{source}}« v »{{target}}«?",
+  "Its reading time moves to the other book on all your devices. This can’t be undone.": "Čas branja bo na vseh vaših napravah prenesen na drugo knjigo. Tega ni mogoče razveljaviti.",
+  "Its reading time moves to the other book on this device. This can’t be undone.": "Čas branja bo na tej napravi prenesen na drugo knjigo. Tega ni mogoče razveljaviti.",
+  "Merge": "Združi",
+  "Merge “{{title}}” into:": "Združi »{{title}}« v:",
+  "Merge Statistics": "Združi statistiko",
+  "Merge statistics of {{title}}": "Združi statistiko: {{title}}",
+  "No other books have reading statistics": "Nobena druga knjiga nima statistike branja",
+  "Merge another entry into this book:": "V to knjigo združi drug vnos:"
 }

@@ -2857,5 +2857,15 @@
   "Its reading time is removed from all your devices. This can’t be undone.": "Uning oʻqish vaqti barcha qurilmalaringizdan olib tashlanadi. Buni ortga qaytarib boʻlmaydi.",
   "Its reading time is removed from this device. This can’t be undone.": "Uning oʻqish vaqti bu qurilmadan olib tashlanadi. Buni ortga qaytarib boʻlmaydi.",
   "Statistics by Book": "Kitoblar boʻyicha statistika",
-  "Each book’s reading time, most recently read first": "Har bir kitobning oʻqish vaqti, oxirgi oʻqilganlari birinchi"
+  "Each book’s reading time, most recently read first": "Har bir kitobning oʻqish vaqti, oxirgi oʻqilganlari birinchi",
+  "Failed to merge reading statistics": "Oʻqish statistikasini birlashtirib boʻlmadi",
+  "Merge “{{source}}” into “{{target}}”?": "“{{source}}” “{{target}}” bilan birlashtirilsinmi?",
+  "Its reading time moves to the other book on all your devices. This can’t be undone.": "Uning oʻqish vaqti barcha qurilmalaringizda boshqa kitobga oʻtkaziladi. Buni ortga qaytarib boʻlmaydi.",
+  "Its reading time moves to the other book on this device. This can’t be undone.": "Uning oʻqish vaqti bu qurilmada boshqa kitobga oʻtkaziladi. Buni ortga qaytarib boʻlmaydi.",
+  "Merge": "Birlashtirish",
+  "Merge “{{title}}” into:": "“{{title}}” quyidagi bilan birlashtirilsin:",
+  "Merge Statistics": "Statistikani birlashtirish",
+  "Merge statistics of {{title}}": "{{title}} statistikasini birlashtirish",
+  "No other books have reading statistics": "Boshqa hech bir kitobda oʻqish statistikasi yoʻq",
+  "Merge another entry into this book:": "Bu kitobga boshqa yozuvni birlashtirish:"
 }

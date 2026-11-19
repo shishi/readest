@@ -3003,5 +3003,15 @@
   "Its reading time is removed from all your devices. This can’t be undone.": "Время чтения этой книги будет удалено со всех ваших устройств. Это действие нельзя отменить.",
   "Its reading time is removed from this device. This can’t be undone.": "Время чтения этой книги будет удалено с этого устройства. Это действие нельзя отменить.",
   "Statistics by Book": "Статистика по книгам",
-  "Each book’s reading time, most recently read first": "Время чтения каждой книги, сначала недавние"
+  "Each book’s reading time, most recently read first": "Время чтения каждой книги, сначала недавние",
+  "Failed to merge reading statistics": "Не удалось объединить статистику чтения",
+  "Merge “{{source}}” into “{{target}}”?": "Объединить «{{source}}» с «{{target}}»?",
+  "Its reading time moves to the other book on all your devices. This can’t be undone.": "Время чтения этой книги будет перенесено в другую книгу на всех ваших устройствах. Это действие нельзя отменить.",
+  "Its reading time moves to the other book on this device. This can’t be undone.": "Время чтения этой книги будет перенесено в другую книгу на этом устройстве. Это действие нельзя отменить.",
+  "Merge": "Объединить",
+  "Merge “{{title}}” into:": "Объединить «{{title}}» с:",
+  "Merge Statistics": "Объединить статистику",
+  "Merge statistics of {{title}}": "Объединить статистику: {{title}}",
+  "No other books have reading statistics": "У других книг нет статистики чтения",
+  "Merge another entry into this book:": "Объединить другую запись с этой книгой:"
 }

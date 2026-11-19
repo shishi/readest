@@ -2857,5 +2857,15 @@
   "Its reading time is removed from all your devices. This can’t be undone.": "এর পড়ার সময় আপনার সব ডিভাইস থেকে সরানো হবে। এটি পূর্বাবস্থায় ফেরানো যাবে না।",
   "Its reading time is removed from this device. This can’t be undone.": "এর পড়ার সময় এই ডিভাইস থেকে সরানো হবে। এটি পূর্বাবস্থায় ফেরানো যাবে না।",
   "Statistics by Book": "বই অনুযায়ী পরিসংখ্যান",
-  "Each book’s reading time, most recently read first": "প্রতিটি বইয়ের পড়ার সময়, সম্প্রতি পড়া আগে"
+  "Each book’s reading time, most recently read first": "প্রতিটি বইয়ের পড়ার সময়, সম্প্রতি পড়া আগে",
+  "Failed to merge reading statistics": "পড়ার পরিসংখ্যান একত্র করা যায়নি",
+  "Merge “{{source}}” into “{{target}}”?": "“{{source}}”-কে “{{target}}”-এর সঙ্গে একত্র করবেন?",
+  "Its reading time moves to the other book on all your devices. This can’t be undone.": "এর পড়ার সময় আপনার সব ডিভাইসে অন্য বইটিতে চলে যাবে। এটি পূর্বাবস্থায় ফেরানো যাবে না।",
+  "Its reading time moves to the other book on this device. This can’t be undone.": "এর পড়ার সময় এই ডিভাইসে অন্য বইটিতে চলে যাবে। এটি পূর্বাবস্থায় ফেরানো যাবে না।",
+  "Merge": "একত্র করুন",
+  "Merge “{{title}}” into:": "“{{title}}” যার সঙ্গে একত্র করবেন:",
+  "Merge Statistics": "পরিসংখ্যান একত্র করুন",
+  "Merge statistics of {{title}}": "{{title}}-এর পরিসংখ্যান একত্র করুন",
+  "No other books have reading statistics": "অন্য কোনো বইয়ের পড়ার পরিসংখ্যান নেই",
+  "Merge another entry into this book:": "এই বইয়ের সঙ্গে অন্য একটি এন্ট্রি একত্র করুন:"
 }

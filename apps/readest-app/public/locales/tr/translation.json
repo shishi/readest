@@ -2857,5 +2857,15 @@
   "Its reading time is removed from all your devices. This can’t be undone.": "Okuma süresi tüm cihazlarınızdan kaldırılır. Bu işlem geri alınamaz.",
   "Its reading time is removed from this device. This can’t be undone.": "Okuma süresi bu cihazdan kaldırılır. Bu işlem geri alınamaz.",
   "Statistics by Book": "Kitaba Göre İstatistikler",
-  "Each book’s reading time, most recently read first": "Her kitabın okuma süresi, en son okunan önce"
+  "Each book’s reading time, most recently read first": "Her kitabın okuma süresi, en son okunan önce",
+  "Failed to merge reading statistics": "Okuma istatistikleri birleştirilemedi",
+  "Merge “{{source}}” into “{{target}}”?": "“{{source}}”, “{{target}}” ile birleştirilsin mi?",
+  "Its reading time moves to the other book on all your devices. This can’t be undone.": "Okuma süresi tüm cihazlarınızda diğer kitaba taşınır. Bu işlem geri alınamaz.",
+  "Its reading time moves to the other book on this device. This can’t be undone.": "Okuma süresi bu cihazda diğer kitaba taşınır. Bu işlem geri alınamaz.",
+  "Merge": "Birleştir",
+  "Merge “{{title}}” into:": "“{{title}}” şununla birleştirilsin:",
+  "Merge Statistics": "İstatistikleri Birleştir",
+  "Merge statistics of {{title}}": "{{title}} istatistiklerini birleştir",
+  "No other books have reading statistics": "Başka hiçbir kitabın okuma istatistiği yok",
+  "Merge another entry into this book:": "Bu kitapla birleştirilecek başka bir kayıt:"
 }
